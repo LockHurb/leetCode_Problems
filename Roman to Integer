@@ -1,0 +1,59 @@
+#Problema de números romanos a números normales xd
+
+romanos = input("Ingrese números romanos: ")
+
+numRomanos = ["I","V","X","L","C","D","M"]
+
+numNormales = [1,5,10,50,100,500,1000]
+
+listaNumeros = list(romanos)
+
+romanosPostI = ["V","X"]
+romanosPostX = ["L","C"]
+romanosPostC = ["D","M"]
+
+rangoEpico = len(listaNumeros)
+ 
+total = []
+
+i = 0
+
+while(i <= rangoEpico-1):
+
+    numeroPos = numRomanos.index(listaNumeros[i])
+    numeroActual = numNormales[numeroPos]
+
+    if(i == rangoEpico-1):
+
+        total.append(numeroActual)
+        i = i+1
+
+    else:
+
+        postPos = numRomanos.index(listaNumeros[i+1])
+        numeroPost = numNormales[postPos]
+
+        if (numeroActual == 1) and (listaNumeros[i+1] in romanosPostI):
+    
+            total.append(numeroPost - numeroActual)
+            i = i+2
+            
+        elif (numeroActual == 10) and (listaNumeros[i+1] in romanosPostX):
+
+            total.append(numeroPost - numeroActual)
+            i = i+2
+
+        elif (numeroActual == 100) and (listaNumeros[i+1] in romanosPostC):
+
+            total.append(numeroPost - numeroActual)
+            i = i+2
+
+        else:
+
+            total.append(numeroActual)
+            i = i+1
+
+    print(total)
+
+
+print(sum(total))

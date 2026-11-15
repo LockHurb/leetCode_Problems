@@ -1,0 +1,17 @@
+C:\Users\zahid\OneDrive\Documentos\gh\leetCode_Problems\csBaseballGame\bin\Debug\net11.0\csBaseballGame.exe
+C:\Users\zahid\OneDrive\Documentos\gh\leetCode_Problems\csBaseballGame\bin\Debug\net11.0\csBaseballGame.deps.json
+C:\Users\zahid\OneDrive\Documentos\gh\leetCode_Problems\csBaseballGame\bin\Debug\net11.0\csBaseballGame.runtimeconfig.json
+C:\Users\zahid\OneDrive\Documentos\gh\leetCode_Problems\csBaseballGame\bin\Debug\net11.0\csBaseballGame.runtimeconfig.dev.json
+C:\Users\zahid\OneDrive\Documentos\gh\leetCode_Problems\csBaseballGame\bin\Debug\net11.0\csBaseballGame.dll
+C:\Users\zahid\OneDrive\Documentos\gh\leetCode_Problems\csBaseballGame\bin\Debug\net11.0\csBaseballGame.pdb
+C:\Users\zahid\OneDrive\Documentos\gh\leetCode_Problems\csBaseballGame\obj\Debug\net11.0\csBaseballGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahid\OneDrive\Documentos\gh\leetCode_Problems\csBaseballGame\obj\Debug\net11.0\csBaseballGame.AssemblyInfoInputs.cache
+C:\Users\zahid\OneDrive\Documentos\gh\leetCode_Problems\csBaseballGame\obj\Debug\net11.0\csBaseballGame.AssemblyInfo.cs
+C:\Users\zahid\OneDrive\Documentos\gh\leetCode_Problems\csBaseballGame\obj\Debug\net11.0\csBaseballGame.csproj.CoreCompileInputs.cache
+C:\Users\zahid\OneDrive\Documentos\gh\leetCode_Problems\csBaseballGame\obj\Debug\net11.0\csBaseballGame.sourcelink.json
+C:\Users\zahid\OneDrive\Documentos\gh\leetCode_Problems\csBaseballGame\obj\Debug\net11.0\csBaseballGame.dll
+C:\Users\zahid\OneDrive\Documentos\gh\leetCode_Problems\csBaseballGame\obj\Debug\net11.0\refint\csBaseballGame.dll
+C:\Users\zahid\OneDrive\Documentos\gh\leetCode_Problems\csBaseballGame\obj\Debug\net11.0\csBaseballGame.pdb
+C:\Users\zahid\OneDrive\Documentos\gh\leetCode_Problems\csBaseballGame\obj\Debug\net11.0\csBaseballGame.genruntimeconfig.cache
+C:\Users\zahid\OneDrive\Documentos\gh\leetCode_Problems\csBaseballGame\obj\Debug\net11.0\ref\csBaseballGame.dll
+C:\Users\zahid\OneDrive\Documentos\gh\leetCode_Problems\csBaseballGame\obj\Debug\net11.0\csBaseba.1520B11C.Up2Date
